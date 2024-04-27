@@ -1,10 +1,10 @@
 **🚀 Iniciando o Projeto com Angular**
 
-Este é um guia rápido para iniciar um projeto Angular no Visual Studio Code.
+Este é um guia rápido para rodar a listagem de animais.
 
 **1. Abrindo o Terminal**
 
-No Visual Studio Code, você pode abrir o terminal de comando na pasta do projeto pressionando Ctrl + '. 
+No Visual Studio Code, abra o terminal de comando na pasta do projeto.
 
 **2. Instalando as Dependências**
 
